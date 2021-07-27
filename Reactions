@@ -1,0 +1,16 @@
+package Reactions;
+
+import org.bukkit.plugin.java.JavaPlugin;
+
+public class Reactions extends JavaPlugin {
+
+    @Override
+    public void onEnable() {
+        this.getCommand("hug").setExecutor(new Hug());
+        this.getCommand("dab").setExecutor(new Dab());
+        this.getCommand("gg").setExecutor(new gg());
+        this.getCommand("slap").setExecutor(new slap());
+        this.getCommand("flip").setExecutor(new Flip());
+        this.getCommand("unflip").setExecutor(new Unflip());
+    }
+}
