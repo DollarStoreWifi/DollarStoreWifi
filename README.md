@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DollarStoreWifi
+- 👀 I’m interested in learning to code minecraft plugins and starting a server.
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on minecraft plugins
+- 📫 How to reach me dollarstorewifimc@gmail.com
